@@ -1,7 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 
-mypath = "standard"
+mypath = "."
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f)) and f.endswith(".txt")]
 
 for file in onlyfiles:
