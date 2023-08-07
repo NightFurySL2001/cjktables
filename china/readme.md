@@ -184,7 +184,6 @@
 * 发布年份：2021 年 10 月。
 * 总汉字数：14250 字。
 * 来源：https://zh.wikisource.org/wiki/%E5%8F%A4%E7%B1%8D%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E5%AD%97%E8%A7%84%E8%8C%83%E5%AD%97%E5%BD%A2%E8%A1%A8, http://www.homeinmists.com/Standard_glyph_list.htm
-* 分级：一级 3500 字（即《义务教育语文课程常用字表》），二级 3000 字，三级 1605 字。文件内按顺序截取即可。
 
 
 ## 厂商标准类
