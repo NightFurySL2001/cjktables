@@ -17,7 +17,7 @@
 
 * 文件名：`gb_t_12345.txt`
 * 总汉字数：6866 字。
-* 来源：https://gitlab.com/mrhso/character_set/-/blob/master/GB12345.txt
+* 来源：https://github.com/mrhso/IshisashiEncoding/tree/master/%E7%BC%96%E7%A0%81/GB%EF%BC%8FT%2012345
 * 本文件保留了原标准的非常见字，如“`鳧`（U+9CE7）”，“`隷`（U+96B7）”和“`𨻶`（U+28EF6）”；常见字形分别为“`鳬`（U+9CEC）”，“`隸`（U+96B8）”和“`隙`（U+9699）”。
 
 ### `GBK`
@@ -175,7 +175,15 @@
 * 文件名：`tongyong_guifan.txt`
 * 发布年份：2013 年。
 * 总汉字数：8105 字。
-* 来源：https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8
+* 来源：https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8, http://www.homeinmists.com/Standard_glyph.htm
+* 分级：一级 3500 字（即《义务教育语文课程常用字表》），二级 3000 字，三级 1605 字。文件内按顺序截取即可。
+
+### 《古籍印刷通用字規範字形表》
+
+* 文件名：`gujiyinshua.txt`
+* 发布年份：2021 年 10 月。
+* 总汉字数：14250 字。
+* 来源：https://zh.wikisource.org/wiki/%E5%8F%A4%E7%B1%8D%E5%8D%B0%E5%88%B7%E9%80%9A%E7%94%A8%E5%AD%97%E8%A7%84%E8%8C%83%E5%AD%97%E5%BD%A2%E8%A1%A8, http://www.homeinmists.com/Standard_glyph_list.htm
 * 分级：一级 3500 字（即《义务教育语文课程常用字表》），二级 3000 字，三级 1605 字。文件内按顺序截取即可。
 
 
