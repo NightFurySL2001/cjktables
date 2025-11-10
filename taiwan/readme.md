@@ -8,7 +8,7 @@
 
 * 文件名：`big5.txt`
 * 總漢字數：13069 字，唯一漢字數：13067 字。
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 分級：常用字 5401 字（文件名：`big5-1.txt`），次常用字 7666 字 + 2 重复字（文件名：`big5-2.txt`）。另附西文及标点符号 434 字（文件名：`big5-0.txt`）。
 * 本文件收錄了七個倚天外字集：「`碁銹裏墻恒粧嫺`」（分別是「`棋鏽裡牆恆妝嫻`」的異體字）。
 * 本文件在文件末尾依照原標準重複收錄「`兀`」（U+FA0C，`<C9 4A>`）和「`嗀`」（U+FA0D，`<DD FC>`），原字爲「`兀`」（U+5140，`<A4 61>`）和「`嗀`」（U+55C0，`<DC D1>`）。.
@@ -21,7 +21,7 @@
 ### 《常用國字標準字體表》
 
 * 文件名：`edu_standard_1.txt`
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 發佈年份：1982 年（民國 71 年）。
 * 總漢字數：4808 字。
 * 本文件與[教育部提供的版本](https://zh.wikisource.org/wiki/%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8)有一項出入：02149的「`汩`」（U+6C69）實際上應該是「`汨`」（U+6C68），因爲「`汩`」（U+6C69）已出現在下面《次常用國字標準字體表》中。
@@ -30,7 +30,7 @@
 ### 《次常用國字標準字體表》
 
 * 文件名：`edu_standard_2.txt`
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 發佈年份：1982 年（民國 71 年）。
 * 總漢字數：6343 字。
 * 本文件與五大碼有一項出入：3025的「`礴`」（U+7934）在 BIG5 中收錄到「`礡`」（U+7921）；正字應該是本文件的「`礴`」（U+7934）字。
@@ -38,20 +38,20 @@
 ### 《臺灣閩南語常用詞辭典》
 
 * 文件名：`han_taiyu.txt`
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 發佈年份：2011 年（民國 100 年）。
 * 總漢字數：4509 字。
 
 ### 《臺灣客家語常用詞辭典》
 
 * 文件名：`han_keyu.txt`
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 發佈年份：2008 年（民國 97 年）。
 * 總漢字數：4153 字。
 
 ### 匯總表
 
 * 文件名：`han_taiyu_keyu.txt`
-* 來源：上游（https://github.com/ButTaiwan/cjktables/）。
+* 來源：上游（ https://github.com/ButTaiwan/cjktables/ ）。
 * 總漢字數：5350 字。
 * 詳細内容請查閲該文件上方注釋。
