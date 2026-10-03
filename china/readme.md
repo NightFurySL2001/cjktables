@@ -142,6 +142,13 @@
     </p>
 </summary>
 
+### GB 符号
+
+* 文件名：`gb-symbols.txt`
+* 总数：894 个符号。
+* 来源：GB18030-2022 与 UCS 代码映射表 https://web.archive.org/web/20240608172542/http://www.nits.org.cn/index/article/4034
+* 本文件为 GB/T 2312、GB/T 12345、GBK、GB18030 标准编码的双字节符号，并附上最早出现的编码集。
+
 ## 国家标准类
 
 `standard` 文件夹内的汉字表是文字标准性质的文件，列出了中国不同时期提出规范上可使用的汉字。
